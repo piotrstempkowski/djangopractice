@@ -1,1 +1,1 @@
-# djnagopractice
+# djangopractice
